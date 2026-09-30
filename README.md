@@ -99,7 +99,8 @@ Avec DBeaver (ou tout client PostgreSQL), créez une connexion PostgreSQL avec :
 
 Hôte : localhost
 Port : 5432
-Base, utilisateur et mot de passe : les valeurs de votre fichier .env
+User : leo
+MDP : leo
 
 La table se trouve dans public > tasks.
 
